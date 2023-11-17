@@ -3,10 +3,12 @@ This is my web scraper / bot that can perform tasks automatically on the web. Th
 
 Everytime you toggle airplane mode on an iPhone, it gets a new ip adress, which in turn makes it harder for websites to detect botting.
 
+## Code
+To read the main script, check out kmscript.py
+
 
 ## Features
 - **Cost effective:** Since we use iPhones with simcards rather than proxies, we reduce the cost significantly. I bought unlimited sim data cheap and i am using this with this bot.
-
 
 - **Randomized Fingerprints:** It changes all the 'Fingerprints' the browser produces, so it essentially bypasses WebGL fingerprinting, audio, canvas etc.
 
