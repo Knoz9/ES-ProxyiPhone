@@ -1,0 +1,12 @@
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/600.3.18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9) AppleWebKit/537.75.14 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.75.14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/600.3.18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9) AppleWebKit/537.75.14 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.75.14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/600.3.18
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9) AppleWebKit/537.75.14 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.75.14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/98.0.0.0 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/98.0.0.0 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/97.0.0.0 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/97.0.0.0 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/96.0.0.0 Safari/605.1.15
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/96.0.0.0 Safari/605.1.15

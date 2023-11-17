@@ -1,0 +1,1022 @@
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.187)
+Stacktrace:
+0   undetected_chromedriver             0x0000000100849638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000100840a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x00000001003f1a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001003c48a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x000000010046376f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x0000000100478976 undetected_chromedriver + 1001846
+6   undetected_chromedriver             0x000000010045e1c3 undetected_chromedriver + 893379
+7   undetected_chromedriver             0x0000000100429df9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x000000010042afde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x00000001008062d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x000000010080b2de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x00000001007c92c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x000000010080c02d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001007df0ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x00000001008297f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x00000001008299b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x0000000100839a1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff81c50b259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff81c506c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.187)
+Stacktrace:
+0   undetected_chromedriver             0x0000000104a4d638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000104a44a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x00000001045f5a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001045c88a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x000000010466776f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x000000010467c976 undetected_chromedriver + 1001846
+6   undetected_chromedriver             0x00000001046621c3 undetected_chromedriver + 893379
+7   undetected_chromedriver             0x000000010462ddf9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x000000010462efde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x0000000104a0a2d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x0000000104a0f2de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x00000001049cd2c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x0000000104a1002d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001049e30ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x0000000104a2d7f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x0000000104a2d9b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x0000000104a3da1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff81c50b259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff81c506c7b thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x00000001009cd638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x00000001009c4a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000100575a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001005bbd05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x00000001005bbec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x00000001005fff04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x00000001005e241d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x00000001005fd391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x00000001005e21c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x00000001005addf9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x00000001005aefde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x000000010098a2d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x000000010098f2de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x000000010094d2c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x000000010099002d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x00000001009630ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x00000001009ad7f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x00000001009ad9b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x00000001009bda1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007ff81c50b259 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81c506c7b thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x000000010456f638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000104566a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000104117a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x000000010415dd05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x000000010415dec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x00000001041a1f04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x000000010418441d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x000000010419f391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x00000001041841c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x000000010414fdf9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x0000000104150fde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x000000010452c2d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x00000001045312de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x00000001044ef2c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x000000010453202d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x00000001045050ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x000000010454f7f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x000000010454f9b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x000000010455fa1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007ff81c50b259 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81c506c7b thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x000000010261c638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000102613a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x00000001021c4a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x000000010220ad05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x000000010220aec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x000000010224ef04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x000000010223141d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x000000010224c391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x00000001022311c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x00000001021fcdf9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x00000001021fdfde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x00000001025d92d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x00000001025de2de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x000000010259c2c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x00000001025df02d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x00000001025b20ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x00000001025fc7f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x00000001025fc9b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x000000010260ca1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007ff81c50b259 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81c506c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.187)
+Stacktrace:
+0   undetected_chromedriver             0x0000000100832638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000100829a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x00000001003daa57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001003ad8a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x000000010044c76f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x0000000100452e11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x00000001004473b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x0000000100412df9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x0000000100413fde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x00000001007ef2d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x00000001007f42de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x00000001007b22c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x00000001007f502d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001007c80ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x00000001008127f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x00000001008129b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x0000000100822a1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff81c50b259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff81c506c7b thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000100bd2638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000100bc9a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x000000010077aa57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001007c0d05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x00000001007c0ec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x0000000100804f04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x00000001007e741d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x0000000100802391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x00000001007e71c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x00000001007b2df9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x00000001007b3fde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x0000000100b8f2d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x0000000100b942de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x0000000100b522c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x0000000100b9502d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x0000000100b680ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x0000000100bb27f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x0000000100bb29b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x0000000100bc2a1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007ff81c50b259 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81c506c7b thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x00000001045b5638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x00000001045aca53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x000000010415da57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001041a3d05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x00000001041a3ec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x00000001041e7f04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x00000001041ca41d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x00000001041e5391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x00000001041ca1c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x0000000104195df9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x0000000104196fde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x00000001045722d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x00000001045772de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x00000001045352c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x000000010457802d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x000000010454b0ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x00000001045957f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x00000001045959b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x00000001045a5a1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007ff81995b259 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff819956c7b thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x000000010318b638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000103182a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000102d33a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x0000000102d79d05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x0000000102d79ec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x0000000102dbdf04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x0000000102da041d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x0000000102dbb391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x0000000102da01c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x0000000102d6bdf9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x0000000102d6cfde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x00000001031482d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x000000010314d2de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x000000010310b2c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x000000010314e02d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x00000001031210ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x000000010316b7f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x000000010316b9b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x000000010317ba1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007ff81995b259 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff819956c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.187)
+Stacktrace:
+0   undetected_chromedriver             0x000000010072b638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000100722a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x00000001002d3a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001002a68a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x000000010034576f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x000000010034be11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x00000001003403b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x000000010030bdf9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x000000010030cfde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x00000001006e82d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x00000001006ed2de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x00000001006ab2c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x00000001006ee02d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001006c10ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x000000010070b7f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x000000010070b9b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x000000010071ba1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff81995b259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff819956c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.187)
+Stacktrace:
+0   undetected_chromedriver             0x000000010077e638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000100775a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000100326a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001002f98a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x000000010039876f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x00000001003ad976 undetected_chromedriver + 1001846
+6   undetected_chromedriver             0x00000001003931c3 undetected_chromedriver + 893379
+7   undetected_chromedriver             0x000000010035edf9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x000000010035ffde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x000000010073b2d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x00000001007402de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x00000001006fe2c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x000000010074102d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001007140ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x000000010075e7f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x000000010075e9b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x000000010076ea1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff81995b259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff819956c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.187)
+Stacktrace:
+0   undetected_chromedriver             0x00000001048ba638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x00000001048b1a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000104462a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001044358a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x00000001044d476f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x00000001044dae11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x00000001044cf3b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x000000010449adf9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x000000010449bfde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x00000001048772d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x000000010487c2de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x000000010483a2c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x000000010487d02d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001048500ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x000000010489a7f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x000000010489a9b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x00000001048aaa1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff81995b259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff819956c7b thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x00000001045c1638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x00000001045b8a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000104169a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001041afd05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x00000001041afec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x00000001041f3f04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x00000001041d641d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x00000001041f1391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x00000001041d61c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x00000001041a1df9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x00000001041a2fde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x000000010457e2d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x00000001045832de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x00000001045412c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x000000010458402d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x00000001045570ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x00000001045a17f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x00000001045a19b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x00000001045b1a1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007ff81995b259 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff819956c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.187)
+Stacktrace:
+0   undetected_chromedriver             0x0000000104634638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x000000010462ba53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x00000001041dca57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001041af8a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x000000010424e76f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x0000000104254e11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x00000001042493b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x0000000104214df9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x0000000104215fde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x00000001045f12d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x00000001045f62de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x00000001045b42c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x00000001045f702d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001045ca0ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x00000001046147f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x00000001046149b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x0000000104624a1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff81995b259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff819956c7b thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x000000010a6a8638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x000000010a69fa53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x000000010a250a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x000000010a296d05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x000000010a296ec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x000000010a2daf04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x000000010a2bd41d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x000000010a2d8391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x000000010a2bd1c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x000000010a288df9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x000000010a289fde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x000000010a6652d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x000000010a66a2de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x000000010a6282c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x000000010a66b02d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x000000010a63e0ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x000000010a6887f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x000000010a6889b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x000000010a698a1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007fff203208fc _pthread_start + 224
+20  libsystem_pthread.dylib             0x00007fff2031c443 thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000102d90638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000102d87a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000102938a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x000000010297ed05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x000000010297eec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x00000001029c2f04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x00000001029a541d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x00000001029c0391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x00000001029a51c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x0000000102970df9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x0000000102971fde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x0000000102d4d2d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x0000000102d522de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x0000000102d102c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x0000000102d5302d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x0000000102d260ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x0000000102d707f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x0000000102d709b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x0000000102d80a1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007fff204a78fc _pthread_start + 224
+20  libsystem_pthread.dylib             0x00007fff204a3443 thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x0000000102796638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x000000010278da53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x000000010233ea57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001023118a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x00000001023b076f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x00000001023c5976 undetected_chromedriver + 1001846
+6   undetected_chromedriver             0x00000001023ab1c3 undetected_chromedriver + 893379
+7   undetected_chromedriver             0x0000000102376df9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x0000000102377fde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x00000001027532d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x00000001027582de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x00000001027162c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x000000010275902d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x000000010272c0ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x00000001027767f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x00000001027769b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x0000000102786a1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff81198b259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff811986c7b thread_start + 15
+
+An error occurred:
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+An error occurred:
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+An error occurred:
+HTTPConnectionPool(host='localhost', port=58110): Max retries exceeded with url: /session/2600f82371e574a47295d313b721757a/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101f46710>: Failed to establish a new connection: [Errno 61] Connection refused'))
+An error occurred:
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+An error occurred:
+HTTPConnectionPool(host='localhost', port=62921): Max retries exceeded with url: /session/d7dc485cd5227c7cabe0999eb2af2922/element/0AAFDF9096E91F6C950CD0C1DC49E84E_element_44/value (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10083fdd0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+An error occurred:
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+An error occurred:
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x000000010521a638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000105211a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000104dc2a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x0000000104d958a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x0000000104e3476f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x0000000104e3ae11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x0000000104e2f3b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x0000000104dfadf9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x0000000104dfbfde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x00000001051d72d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x00000001051dc2de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x000000010519a2c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x00000001051dd02d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001051b00ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x00000001051fa7f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x00000001051fa9b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x000000010520aa1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff813d37259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff813d32c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x0000000103392638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000103389a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000102f3aa57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x0000000102f0d8a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x0000000102fac76f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x0000000102fb2e11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x0000000102fa73b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x0000000102f72df9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x0000000102f73fde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x000000010334f2d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x00000001033542de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x00000001033122c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x000000010335502d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001033280ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x00000001033727f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x00000001033729b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x0000000103382a1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff813d37259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff813d32c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x000000010059d638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000100594a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000100145a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001001188a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x00000001001b776f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x00000001001bde11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x00000001001b23b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x000000010017ddf9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x000000010017efde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x000000010055a2d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x000000010055f2de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x000000010051d2c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x000000010056002d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001005330ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x000000010057d7f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x000000010057d9b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x000000010058da1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff813d37259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff813d32c7b thread_start + 15
+
+An error occurred:
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x00000001044c7638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x00000001044bea53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x000000010406fa57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001040428a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x00000001040e176f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x00000001040e7e11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x00000001040dc3b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x00000001040a7df9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x00000001040a8fde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x00000001044842d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x00000001044892de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x00000001044472c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x000000010448a02d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x000000010445d0ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x00000001044a77f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x00000001044a79b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x00000001044b7a1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff813d37259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff813d32c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x0000000102e6d638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000102e64a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000102a15a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001029e88a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x0000000102a8776f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x0000000102a8de11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x0000000102a823b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x0000000102a4ddf9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x0000000102a4efde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x0000000102e2a2d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x0000000102e2f2de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x0000000102ded2c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x0000000102e3002d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x0000000102e030ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x0000000102e4d7f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x0000000102e4d9b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x0000000102e5da1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff813d37259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff813d32c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x00000001045e0638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x00000001045d7a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000104188a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x000000010415b8a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x00000001041fa76f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x0000000104200e11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x00000001041f53b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x00000001041c0df9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x00000001041c1fde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x000000010459d2d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x00000001045a22de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x00000001045602c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x00000001045a302d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001045760ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x00000001045c07f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x00000001045c09b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x00000001045d0a1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff813d37259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff813d32c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x0000000104fd7638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000104fcea53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000104b7fa57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x0000000104b528a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x0000000104bf176f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x0000000104bf7e11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x0000000104bec3b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x0000000104bb7df9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x0000000104bb8fde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x0000000104f942d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x0000000104f992de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x0000000104f572c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x0000000104f9a02d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x0000000104f6d0ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x0000000104fb77f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x0000000104fb79b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x0000000104fc7a1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff813d37259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff813d32c7b thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000106590638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000106587a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000106138a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x000000010617ed05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x000000010617eec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x00000001061c2f04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x00000001061a541d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x00000001061c0391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x00000001061a51c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x0000000106170df9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x0000000106171fde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x000000010654d2d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x00000001065522de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x00000001065102c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x000000010655302d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x00000001065260ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x00000001065707f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x00000001065709b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x0000000106580a1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007fff204a78fc _pthread_start + 224
+20  libsystem_pthread.dylib             0x00007fff204a3443 thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x00000001027e6638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x00000001027dda53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x000000010238ea57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001023d4d05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x00000001023d4ec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x0000000102418f04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x00000001023fb41d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x0000000102416391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x00000001023fb1c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x00000001023c6df9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x00000001023c7fde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x00000001027a32d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x00000001027a82de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x00000001027662c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x00000001027a902d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x000000010277c0ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x00000001027c67f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x00000001027c69b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x00000001027d6a1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007fff204a78fc _pthread_start + 224
+20  libsystem_pthread.dylib             0x00007fff204a3443 thread_start + 15
+
+An error occurred:
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+An error occurred:
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+An error occurred:
+Message: 
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=117.0.5938.92)
+Stacktrace:
+0   undetected_chromedriver             0x0000000104f59ed8 undetected_chromedriver + 5091032
+1   undetected_chromedriver             0x0000000104f50c43 undetected_chromedriver + 5053507
+2   undetected_chromedriver             0x0000000104aec527 undetected_chromedriver + 447783
+3   undetected_chromedriver             0x0000000104ac02f8 undetected_chromedriver + 267000
+4   undetected_chromedriver             0x0000000104b680cf undetected_chromedriver + 954575
+5   undetected_chromedriver             0x0000000104b7dcc6 undetected_chromedriver + 1043654
+6   undetected_chromedriver             0x0000000104b62433 undetected_chromedriver + 930867
+7   undetected_chromedriver             0x0000000104b2d042 undetected_chromedriver + 712770
+8   undetected_chromedriver             0x0000000104b2e26e undetected_chromedriver + 717422
+9   undetected_chromedriver             0x0000000104f1b439 undetected_chromedriver + 4834361
+10  undetected_chromedriver             0x0000000104f205dd undetected_chromedriver + 4855261
+11  undetected_chromedriver             0x0000000104f27572 undetected_chromedriver + 4883826
+12  undetected_chromedriver             0x0000000104f2130d undetected_chromedriver + 4858637
+13  undetected_chromedriver             0x0000000104ef316c undetected_chromedriver + 4669804
+14  undetected_chromedriver             0x0000000104f3fcd8 undetected_chromedriver + 4984024
+15  undetected_chromedriver             0x0000000104f3fe90 undetected_chromedriver + 4984464
+16  undetected_chromedriver             0x0000000104f5087e undetected_chromedriver + 5052542
+17  libsystem_pthread.dylib             0x00007fff204a78fc _pthread_start + 224
+18  libsystem_pthread.dylib             0x00007fff204a3443 thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=117.0.5938.92)
+Stacktrace:
+0   undetected_chromedriver             0x0000000102db0638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000102da7a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000102958a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x000000010292b8a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x00000001029ca76f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x00000001029df976 undetected_chromedriver + 1001846
+6   undetected_chromedriver             0x00000001029c51c3 undetected_chromedriver + 893379
+7   undetected_chromedriver             0x0000000102990df9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x0000000102991fde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x0000000102d6d2d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x0000000102d722de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x0000000102d302c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x0000000102d7302d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x0000000102d460ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x0000000102d907f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x0000000102d909b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x0000000102da0a1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007fff204a78fc _pthread_start + 224
+18  libsystem_pthread.dylib             0x00007fff204a3443 thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x000000010492e638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000104925a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x00000001044d6a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001044a98a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x000000010454876f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x000000010454ee11 undetected_chromedriver + 941585
+6   undetected_chromedriver             0x00000001045433b8 undetected_chromedriver + 893880
+7   undetected_chromedriver             0x000000010450edf9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x000000010450ffde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x00000001048eb2d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x00000001048f02de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x00000001048ae2c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x00000001048f102d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001048c40ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x000000010490e7f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x000000010490e9b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x000000010491ea1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff801477259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff801472c7b thread_start + 15
+
+An error occurred:
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x00000001044ef638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x00000001044e6a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000104097a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x000000010406a8a1 undetected_chromedriver + 264353
+4   undetected_chromedriver             0x000000010410976f undetected_chromedriver + 915311
+5   undetected_chromedriver             0x000000010411e976 undetected_chromedriver + 1001846
+6   undetected_chromedriver             0x00000001041041c3 undetected_chromedriver + 893379
+7   undetected_chromedriver             0x00000001040cfdf9 undetected_chromedriver + 679417
+8   undetected_chromedriver             0x00000001040d0fde undetected_chromedriver + 683998
+9   undetected_chromedriver             0x00000001044ac2d9 undetected_chromedriver + 4727513
+10  undetected_chromedriver             0x00000001044b12de undetected_chromedriver + 4747998
+11  undetected_chromedriver             0x000000010446f2c9 undetected_chromedriver + 4477641
+12  undetected_chromedriver             0x00000001044b202d undetected_chromedriver + 4751405
+13  undetected_chromedriver             0x00000001044850ec undetected_chromedriver + 4567276
+14  undetected_chromedriver             0x00000001044cf7f8 undetected_chromedriver + 4872184
+15  undetected_chromedriver             0x00000001044cf9b7 undetected_chromedriver + 4872631
+16  undetected_chromedriver             0x00000001044dfa1f undetected_chromedriver + 4938271
+17  libsystem_pthread.dylib             0x00007ff8099bb259 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff8099b6c7b thread_start + 15
+
+An error occurred:
+Message: timeout: Timed out receiving message from renderer: 3.000
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x000000010305e638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000103055a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000102c06a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x0000000102beb320 undetected_chromedriver + 336672
+4   undetected_chromedriver             0x0000000102beb0b1 undetected_chromedriver + 336049
+5   undetected_chromedriver             0x0000000102be9733 undetected_chromedriver + 329523
+6   undetected_chromedriver             0x0000000102be9f19 undetected_chromedriver + 331545
+7   undetected_chromedriver             0x0000000102bfbdd8 undetected_chromedriver + 404952
+8   undetected_chromedriver             0x0000000102bfd842 undetected_chromedriver + 411714
+9   undetected_chromedriver             0x0000000102c12c58 undetected_chromedriver + 498776
+10  undetected_chromedriver             0x0000000102c18e4b undetected_chromedriver + 523851
+11  undetected_chromedriver             0x0000000102bea651 undetected_chromedriver + 333393
+12  undetected_chromedriver             0x0000000102c12aa7 undetected_chromedriver + 498343
+13  undetected_chromedriver             0x0000000102c8e3fc undetected_chromedriver + 1004540
+14  undetected_chromedriver             0x0000000102c731c3 undetected_chromedriver + 893379
+15  undetected_chromedriver             0x0000000102c3edf9 undetected_chromedriver + 679417
+16  undetected_chromedriver             0x0000000102c3ffde undetected_chromedriver + 683998
+17  undetected_chromedriver             0x000000010301b2d9 undetected_chromedriver + 4727513
+18  undetected_chromedriver             0x00000001030202de undetected_chromedriver + 4747998
+19  undetected_chromedriver             0x0000000102fde2c9 undetected_chromedriver + 4477641
+20  undetected_chromedriver             0x000000010302102d undetected_chromedriver + 4751405
+21  undetected_chromedriver             0x0000000102ff40ec undetected_chromedriver + 4567276
+22  undetected_chromedriver             0x000000010303e7f8 undetected_chromedriver + 4872184
+23  undetected_chromedriver             0x000000010303e9b7 undetected_chromedriver + 4872631
+24  undetected_chromedriver             0x000000010304ea1f undetected_chromedriver + 4938271
+25  libsystem_pthread.dylib             0x00007ff81e3ff259 _pthread_start + 125
+26  libsystem_pthread.dylib             0x00007ff81e3fac7b thread_start + 15
+
+An error occurred:
+Message: timeout: Timed out receiving message from renderer: 3.000
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x000000010260a638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000102601a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x00000001021b2a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x0000000102197320 undetected_chromedriver + 336672
+4   undetected_chromedriver             0x00000001021970b1 undetected_chromedriver + 336049
+5   undetected_chromedriver             0x0000000102195733 undetected_chromedriver + 329523
+6   undetected_chromedriver             0x0000000102195f19 undetected_chromedriver + 331545
+7   undetected_chromedriver             0x00000001021a7dd8 undetected_chromedriver + 404952
+8   undetected_chromedriver             0x00000001021a9842 undetected_chromedriver + 411714
+9   undetected_chromedriver             0x00000001021bec58 undetected_chromedriver + 498776
+10  undetected_chromedriver             0x00000001021c4e4b undetected_chromedriver + 523851
+11  undetected_chromedriver             0x0000000102196651 undetected_chromedriver + 333393
+12  undetected_chromedriver             0x00000001021beaa7 undetected_chromedriver + 498343
+13  undetected_chromedriver             0x000000010223a3fc undetected_chromedriver + 1004540
+14  undetected_chromedriver             0x000000010221f1c3 undetected_chromedriver + 893379
+15  undetected_chromedriver             0x00000001021eadf9 undetected_chromedriver + 679417
+16  undetected_chromedriver             0x00000001021ebfde undetected_chromedriver + 683998
+17  undetected_chromedriver             0x00000001025c72d9 undetected_chromedriver + 4727513
+18  undetected_chromedriver             0x00000001025cc2de undetected_chromedriver + 4747998
+19  undetected_chromedriver             0x000000010258a2c9 undetected_chromedriver + 4477641
+20  undetected_chromedriver             0x00000001025cd02d undetected_chromedriver + 4751405
+21  undetected_chromedriver             0x00000001025a00ec undetected_chromedriver + 4567276
+22  undetected_chromedriver             0x00000001025ea7f8 undetected_chromedriver + 4872184
+23  undetected_chromedriver             0x00000001025ea9b7 undetected_chromedriver + 4872631
+24  undetected_chromedriver             0x00000001025faa1f undetected_chromedriver + 4938271
+25  libsystem_pthread.dylib             0x00007ff81e3ff259 _pthread_start + 125
+26  libsystem_pthread.dylib             0x00007ff81e3fac7b thread_start + 15
+
+An error occurred:
+Message: timeout: Timed out receiving message from renderer: 3.000
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x00000001034b0638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x00000001034a7a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000103058a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x000000010303d320 undetected_chromedriver + 336672
+4   undetected_chromedriver             0x000000010303d0b1 undetected_chromedriver + 336049
+5   undetected_chromedriver             0x000000010303b733 undetected_chromedriver + 329523
+6   undetected_chromedriver             0x000000010303bf19 undetected_chromedriver + 331545
+7   undetected_chromedriver             0x000000010304ddd8 undetected_chromedriver + 404952
+8   undetected_chromedriver             0x000000010304f842 undetected_chromedriver + 411714
+9   undetected_chromedriver             0x0000000103064c58 undetected_chromedriver + 498776
+10  undetected_chromedriver             0x000000010306ae4b undetected_chromedriver + 523851
+11  undetected_chromedriver             0x000000010303c651 undetected_chromedriver + 333393
+12  undetected_chromedriver             0x0000000103064aa7 undetected_chromedriver + 498343
+13  undetected_chromedriver             0x00000001030e03fc undetected_chromedriver + 1004540
+14  undetected_chromedriver             0x00000001030c51c3 undetected_chromedriver + 893379
+15  undetected_chromedriver             0x0000000103090df9 undetected_chromedriver + 679417
+16  undetected_chromedriver             0x0000000103091fde undetected_chromedriver + 683998
+17  undetected_chromedriver             0x000000010346d2d9 undetected_chromedriver + 4727513
+18  undetected_chromedriver             0x00000001034722de undetected_chromedriver + 4747998
+19  undetected_chromedriver             0x00000001034302c9 undetected_chromedriver + 4477641
+20  undetected_chromedriver             0x000000010347302d undetected_chromedriver + 4751405
+21  undetected_chromedriver             0x00000001034460ec undetected_chromedriver + 4567276
+22  undetected_chromedriver             0x00000001034907f8 undetected_chromedriver + 4872184
+23  undetected_chromedriver             0x00000001034909b7 undetected_chromedriver + 4872631
+24  undetected_chromedriver             0x00000001034a0a1f undetected_chromedriver + 4938271
+25  libsystem_pthread.dylib             0x00007ff81e3ff259 _pthread_start + 125
+26  libsystem_pthread.dylib             0x00007ff81e3fac7b thread_start + 15
+
+An error occurred:
+Message: 
+Stacktrace:
+0   undetected_chromedriver             0x000000010071d638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000100714a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x00000001002c5a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x000000010030bd05 undetected_chromedriver + 736517
+4   undetected_chromedriver             0x000000010030bec1 undetected_chromedriver + 736961
+5   undetected_chromedriver             0x000000010034ff04 undetected_chromedriver + 1015556
+6   undetected_chromedriver             0x000000010033241d undetected_chromedriver + 893981
+7   undetected_chromedriver             0x000000010034d391 undetected_chromedriver + 1004433
+8   undetected_chromedriver             0x00000001003321c3 undetected_chromedriver + 893379
+9   undetected_chromedriver             0x00000001002fddf9 undetected_chromedriver + 679417
+10  undetected_chromedriver             0x00000001002fefde undetected_chromedriver + 683998
+11  undetected_chromedriver             0x00000001006da2d9 undetected_chromedriver + 4727513
+12  undetected_chromedriver             0x00000001006df2de undetected_chromedriver + 4747998
+13  undetected_chromedriver             0x000000010069d2c9 undetected_chromedriver + 4477641
+14  undetected_chromedriver             0x00000001006e002d undetected_chromedriver + 4751405
+15  undetected_chromedriver             0x00000001006b30ec undetected_chromedriver + 4567276
+16  undetected_chromedriver             0x00000001006fd7f8 undetected_chromedriver + 4872184
+17  undetected_chromedriver             0x00000001006fd9b7 undetected_chromedriver + 4872631
+18  undetected_chromedriver             0x000000010070da1f undetected_chromedriver + 4938271
+19  libsystem_pthread.dylib             0x00007ff81e3ff259 _pthread_start + 125
+20  libsystem_pthread.dylib             0x00007ff81e3fac7b thread_start + 15
+
+An error occurred:
+Message: timeout: Timed out receiving message from renderer: 5.000
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x000000010455d638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000104554a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000104105a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001040ea320 undetected_chromedriver + 336672
+4   undetected_chromedriver             0x00000001040ea0b1 undetected_chromedriver + 336049
+5   undetected_chromedriver             0x00000001040e8733 undetected_chromedriver + 329523
+6   undetected_chromedriver             0x00000001040e8f19 undetected_chromedriver + 331545
+7   undetected_chromedriver             0x00000001040fadd8 undetected_chromedriver + 404952
+8   undetected_chromedriver             0x00000001040fc842 undetected_chromedriver + 411714
+9   undetected_chromedriver             0x0000000104111c58 undetected_chromedriver + 498776
+10  undetected_chromedriver             0x0000000104117e4b undetected_chromedriver + 523851
+11  undetected_chromedriver             0x00000001040e9651 undetected_chromedriver + 333393
+12  undetected_chromedriver             0x0000000104111aa7 undetected_chromedriver + 498343
+13  undetected_chromedriver             0x000000010418d3fc undetected_chromedriver + 1004540
+14  undetected_chromedriver             0x00000001041721c3 undetected_chromedriver + 893379
+15  undetected_chromedriver             0x000000010413ddf9 undetected_chromedriver + 679417
+16  undetected_chromedriver             0x000000010413efde undetected_chromedriver + 683998
+17  undetected_chromedriver             0x000000010451a2d9 undetected_chromedriver + 4727513
+18  undetected_chromedriver             0x000000010451f2de undetected_chromedriver + 4747998
+19  undetected_chromedriver             0x00000001044dd2c9 undetected_chromedriver + 4477641
+20  undetected_chromedriver             0x000000010452002d undetected_chromedriver + 4751405
+21  undetected_chromedriver             0x00000001044f30ec undetected_chromedriver + 4567276
+22  undetected_chromedriver             0x000000010453d7f8 undetected_chromedriver + 4872184
+23  undetected_chromedriver             0x000000010453d9b7 undetected_chromedriver + 4872631
+24  undetected_chromedriver             0x000000010454da1f undetected_chromedriver + 4938271
+25  libsystem_pthread.dylib             0x00007ff81e3ff259 _pthread_start + 125
+26  libsystem_pthread.dylib             0x00007ff81e3fac7b thread_start + 15
+
+An error occurred:
+Message: timeout: Timed out receiving message from renderer: 5.000
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x00000001024ed638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x00000001024e4a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000102095a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x000000010207a320 undetected_chromedriver + 336672
+4   undetected_chromedriver             0x000000010207a0b1 undetected_chromedriver + 336049
+5   undetected_chromedriver             0x0000000102078733 undetected_chromedriver + 329523
+6   undetected_chromedriver             0x0000000102078f19 undetected_chromedriver + 331545
+7   undetected_chromedriver             0x000000010208add8 undetected_chromedriver + 404952
+8   undetected_chromedriver             0x000000010208c842 undetected_chromedriver + 411714
+9   undetected_chromedriver             0x00000001020a1c58 undetected_chromedriver + 498776
+10  undetected_chromedriver             0x00000001020a7e4b undetected_chromedriver + 523851
+11  undetected_chromedriver             0x0000000102079651 undetected_chromedriver + 333393
+12  undetected_chromedriver             0x00000001020a1aa7 undetected_chromedriver + 498343
+13  undetected_chromedriver             0x000000010211d3fc undetected_chromedriver + 1004540
+14  undetected_chromedriver             0x00000001021021c3 undetected_chromedriver + 893379
+15  undetected_chromedriver             0x00000001020cddf9 undetected_chromedriver + 679417
+16  undetected_chromedriver             0x00000001020cefde undetected_chromedriver + 683998
+17  undetected_chromedriver             0x00000001024aa2d9 undetected_chromedriver + 4727513
+18  undetected_chromedriver             0x00000001024af2de undetected_chromedriver + 4747998
+19  undetected_chromedriver             0x000000010246d2c9 undetected_chromedriver + 4477641
+20  undetected_chromedriver             0x00000001024b002d undetected_chromedriver + 4751405
+21  undetected_chromedriver             0x00000001024830ec undetected_chromedriver + 4567276
+22  undetected_chromedriver             0x00000001024cd7f8 undetected_chromedriver + 4872184
+23  undetected_chromedriver             0x00000001024cd9b7 undetected_chromedriver + 4872631
+24  undetected_chromedriver             0x00000001024dda1f undetected_chromedriver + 4938271
+25  libsystem_pthread.dylib             0x00007ff81e3ff259 _pthread_start + 125
+26  libsystem_pthread.dylib             0x00007ff81e3fac7b thread_start + 15
+
+An error occurred:
+Message: timeout: Timed out receiving message from renderer: 5.000
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x000000010484f638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x0000000104846a53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x00000001043f7a57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x00000001043dc320 undetected_chromedriver + 336672
+4   undetected_chromedriver             0x00000001043dc0b1 undetected_chromedriver + 336049
+5   undetected_chromedriver             0x00000001043da733 undetected_chromedriver + 329523
+6   undetected_chromedriver             0x00000001043daf19 undetected_chromedriver + 331545
+7   undetected_chromedriver             0x00000001043ecdd8 undetected_chromedriver + 404952
+8   undetected_chromedriver             0x00000001043ee842 undetected_chromedriver + 411714
+9   undetected_chromedriver             0x0000000104403c58 undetected_chromedriver + 498776
+10  undetected_chromedriver             0x0000000104409e4b undetected_chromedriver + 523851
+11  undetected_chromedriver             0x00000001043db651 undetected_chromedriver + 333393
+12  undetected_chromedriver             0x0000000104403aa7 undetected_chromedriver + 498343
+13  undetected_chromedriver             0x000000010447f3fc undetected_chromedriver + 1004540
+14  undetected_chromedriver             0x00000001044641c3 undetected_chromedriver + 893379
+15  undetected_chromedriver             0x000000010442fdf9 undetected_chromedriver + 679417
+16  undetected_chromedriver             0x0000000104430fde undetected_chromedriver + 683998
+17  undetected_chromedriver             0x000000010480c2d9 undetected_chromedriver + 4727513
+18  undetected_chromedriver             0x00000001048112de undetected_chromedriver + 4747998
+19  undetected_chromedriver             0x00000001047cf2c9 undetected_chromedriver + 4477641
+20  undetected_chromedriver             0x000000010481202d undetected_chromedriver + 4751405
+21  undetected_chromedriver             0x00000001047e50ec undetected_chromedriver + 4567276
+22  undetected_chromedriver             0x000000010482f7f8 undetected_chromedriver + 4872184
+23  undetected_chromedriver             0x000000010482f9b7 undetected_chromedriver + 4872631
+24  undetected_chromedriver             0x000000010483fa1f undetected_chromedriver + 4938271
+25  libsystem_pthread.dylib             0x00007ff81e3ff259 _pthread_start + 125
+26  libsystem_pthread.dylib             0x00007ff81e3fac7b thread_start + 15
+
+An error occurred:
+Message: timeout: Timed out receiving message from renderer: 5.000
+  (Session info: chrome=116.0.5845.140)
+Stacktrace:
+0   undetected_chromedriver             0x00000001031b5638 undetected_chromedriver + 5002808
+1   undetected_chromedriver             0x00000001031aca53 undetected_chromedriver + 4966995
+2   undetected_chromedriver             0x0000000102d5da57 undetected_chromedriver + 449111
+3   undetected_chromedriver             0x0000000102d42320 undetected_chromedriver + 336672
+4   undetected_chromedriver             0x0000000102d420b1 undetected_chromedriver + 336049
+5   undetected_chromedriver             0x0000000102d40733 undetected_chromedriver + 329523
+6   undetected_chromedriver             0x0000000102d40f19 undetected_chromedriver + 331545
+7   undetected_chromedriver             0x0000000102d52dd8 undetected_chromedriver + 404952
+8   undetected_chromedriver             0x0000000102d54842 undetected_chromedriver + 411714
+9   undetected_chromedriver             0x0000000102d69c58 undetected_chromedriver + 498776
+10  undetected_chromedriver             0x0000000102d6fe4b undetected_chromedriver + 523851
+11  undetected_chromedriver             0x0000000102d41651 undetected_chromedriver + 333393
+12  undetected_chromedriver             0x0000000102d69aa7 undetected_chromedriver + 498343
+13  undetected_chromedriver             0x0000000102de53fc undetected_chromedriver + 1004540
+14  undetected_chromedriver             0x0000000102dca1c3 undetected_chromedriver + 893379
+15  undetected_chromedriver             0x0000000102d95df9 undetected_chromedriver + 679417
+16  undetected_chromedriver             0x0000000102d96fde undetected_chromedriver + 683998
+17  undetected_chromedriver             0x00000001031722d9 undetected_chromedriver + 4727513
+18  undetected_chromedriver             0x00000001031772de undetected_chromedriver + 4747998
+19  undetected_chromedriver             0x00000001031352c9 undetected_chromedriver + 4477641
+20  undetected_chromedriver             0x000000010317802d undetected_chromedriver + 4751405
+21  undetected_chromedriver             0x000000010314b0ec undetected_chromedriver + 4567276
+22  undetected_chromedriver             0x00000001031957f8 undetected_chromedriver + 4872184
+23  undetected_chromedriver             0x00000001031959b7 undetected_chromedriver + 4872631
+24  undetected_chromedriver             0x00000001031a5a1f undetected_chromedriver + 4938271
+25  libsystem_pthread.dylib             0x00007ff81e3ff259 _pthread_start + 125
+26  libsystem_pthread.dylib             0x00007ff81e3fac7b thread_start + 15
+
