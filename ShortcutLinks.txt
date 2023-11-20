@@ -1,0 +1,5 @@
+KmProxy L Latest(Shortcut for checking Airplane flag on MQTT): 
+https://www.icloud.com/shortcuts/b362c3645fba402886aecf6c948fa682
+
+Kmproxy Air C L (Shortcut for toggling Airplane mode):
+https://www.icloud.com/shortcuts/1c37307a821248efa0faab6318f92fda
